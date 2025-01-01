@@ -61,7 +61,8 @@ def reduce_item(key, value):
 
 if __name__ == "__main__":
     if len(sys.argv) != 4:
-        print ("\nUsage: python json_to_csv.py <node> <json_in_file_path> <csv_out_file_path>\n")
+        ## print ("\n python "C:\Users\The NOD Squad\OneDrive\Documents\GitHub\json-to-csv-py\json_to_csv.py" node "C:\Users\The NOD Squad\OneDrive\Documents\GitHub\json-to-csv-py\samples\sample_for_testing.json" "C:\Users\The NOD Squad\OneDrive\Documents\GitHub\json-to-csv-py\samples\sample_for_testing.csv" \n")
+        print("Need more Arguments.")
     else:
         #Reading arguments
         node = sys.argv[1]

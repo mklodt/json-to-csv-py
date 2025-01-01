@@ -1,0 +1,1811 @@
+{
+    "props": {
+        "pageProps": {
+            "data": {
+                "serverState": {
+                    "initialResults": {
+                        "prod-ct-products": {
+                            "results": [
+                                {
+                                    "hits": [
+                                        {
+                                            "slug": {
+                                                "en-US": "arcade-fun-portable-gaming-console"
+                                            },
+                                            "name": {
+                                                "en-US": "Arcade Fun Portable Gaming Console"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "brand": "Tech Solutions",
+                                                        "releaseDateTime": "2023-11-08",
+                                                        "parentAlias": [
+                                                            "9098888",
+                                                            "9098889",
+                                                            "9098890"
+                                                        ],
+                                                        "colorFacet": "Red",
+                                                        "cleanBrandName": "Tech Solutions",
+                                                        "productState": "available",
+                                                        "variantStyle": "Red",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1699401600,
+                                                        "department": "TECH TREND",
+                                                        "class": "VIDEO GAME ACCESSORIES",
+                                                        "commonName": "gameboy",
+                                                        "staticAvgUnitsSoldPast14Days": 111,
+                                                        "fmTheme": [
+                                                            "gaming",
+                                                            "kids game"
+                                                        ],
+                                                        "channelEligibility": "BOPIS"
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9098888_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9098888_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9098888_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9098888_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9098888_05.jpg"
+                                                    ],
+                                                    "sku": "9098888",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "86dfd97c-e835-43ff-abc6-875b962d842e",
+                                                                    "value": 1000
+                                                                }
+                                                            ],
+                                                            "max": 1000,
+                                                            "min": 1000
+                                                        }
+                                                    },
+                                                    "displayOnPLP": false
+                                                },
+                                                {
+                                                    "id": 2,
+                                                    "attributes": {
+                                                        "brand": "Tech Solutions",
+                                                        "releaseDateTime": "2023-11-08",
+                                                        "colorFacet": "Gray",
+                                                        "cleanBrandName": "Tech Solutions",
+                                                        "productState": "available",
+                                                        "variantStyle": "Gray",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1699401600,
+                                                        "department": "TECH TREND",
+                                                        "class": "VIDEO GAME ACCESSORIES",
+                                                        "commonName": "gameboy",
+                                                        "staticAvgUnitsSoldPast14Days": 111,
+                                                        "fmTheme": [
+                                                            "gaming",
+                                                            "kids game"
+                                                        ],
+                                                        "channelEligibility": "BOPIS"
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9098890_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9098890_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9098890_05.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9098890_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9098890_03.jpg"
+                                                    ],
+                                                    "sku": "9098890",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "0b5724e1-a07b-4f3c-81d6-af617eaec677",
+                                                                    "value": 1000
+                                                                }
+                                                            ],
+                                                            "max": 1000,
+                                                            "min": 1000
+                                                        }
+                                                    },
+                                                    "displayOnPLP": false
+                                                },
+                                                {
+                                                    "id": 3,
+                                                    "attributes": {
+                                                        "brand": "Tech Solutions",
+                                                        "releaseDateTime": "2023-11-08",
+                                                        "colorFacet": "Blue",
+                                                        "cleanBrandName": "Tech Solutions",
+                                                        "productState": "available",
+                                                        "variantStyle": "Blue",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1699401600,
+                                                        "department": "TECH TREND",
+                                                        "class": "VIDEO GAME ACCESSORIES",
+                                                        "commonName": "gameboy",
+                                                        "staticAvgUnitsSoldPast14Days": 111,
+                                                        "fmTheme": [
+                                                            "gaming",
+                                                            "kids game"
+                                                        ],
+                                                        "channelEligibility": "BOPIS"
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9098889_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9098889_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9098889_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9098889_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9098889_05.jpg"
+                                                    ],
+                                                    "sku": "9098889",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "fe048f35-2258-49e9-8229-09ab5535f09c",
+                                                                    "value": 1000
+                                                                }
+                                                            ],
+                                                            "max": 1000,
+                                                            "min": 1000
+                                                        }
+                                                    },
+                                                    "displayOnPLP": false
+                                                },
+                                                {
+                                                    "id": 4,
+                                                    "attributes": {
+                                                        "releaseDateTime": "2024-10-16",
+                                                        "commonName": "gameboy",
+                                                        "colorFacet": "White",
+                                                        "productState": "available",
+                                                        "variantStyle": "Clear",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1729036800,
+                                                        "staticAvgUnitsSoldPast14Days": 111,
+                                                        "department": "TECH TREND",
+                                                        "class": "VIDEO GAME ACCESSORIES",
+                                                        "channelEligibility": "BOPIS",
+                                                        "ctProductSlider": [
+                                                            "11-01-24holidayshopgiftslider"
+                                                        ]
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9160688_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9160688_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9160688_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9160688_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9160688_05.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9160688_06.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9160688_07.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9160688_08.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9160688_09.jpg"
+                                                    ],
+                                                    "sku": "9160688",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "f0f4ea67-27b0-4cc4-a57e-37a64b064905",
+                                                                    "value": 1000
+                                                                }
+                                                            ],
+                                                            "max": 1000,
+                                                            "min": 1000
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1",
+                                                "2",
+                                                "3",
+                                                "4"
+                                            ],
+                                            "objectID": "c70c5f4d-f4ec-4f65-8a7b-d1a418c2befb"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "retro-video-game-console-9162853"
+                                            },
+                                            "name": {
+                                                "en-US": "Retro Video Game Console"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "releaseDateTime": "2024-10-16",
+                                                        "colorFacet": "Blue",
+                                                        "productState": "available",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1729036800,
+                                                        "staticAvgUnitsSoldPast14Days": 263,
+                                                        "department": "TECH TREND",
+                                                        "class": "VIDEO GAME ACCESSORIES",
+                                                        "channelEligibility": "BOPIS",
+                                                        "ctProductSlider": [
+                                                            "10-15giftingearly",
+                                                            "11-15HOMEPAGESELLINGOUT"
+                                                        ]
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9162854_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9162854_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9162854_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9162854_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9162854_05.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9162854_06.jpg"
+                                                    ],
+                                                    "sku": "9162854",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "8a860990-2737-4e6d-ba29-cfa106fb3d04",
+                                                                    "value": 1000
+                                                                }
+                                                            ],
+                                                            "max": 1000,
+                                                            "min": 1000
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1"
+                                            ],
+                                            "objectID": "211bd7b1-a8dd-44ef-8eba-43980451671c"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "sonic-the-hedgehog-true-wireless-earbuds-with-mic-9150599"
+                                            },
+                                            "name": {
+                                                "en-US": "Sonic The Hedgehog\u2122 True Wireless Earbuds With Mic"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "fmBrand": [
+                                                            "Sonic The Hedgehog"
+                                                        ],
+                                                        "brand": "Sonic The Hedgehog\u2122",
+                                                        "character": [
+                                                            "Sonic The Hedgehog"
+                                                        ],
+                                                        "releaseDateTime": "2024-08-09",
+                                                        "cleanBrandName": "Sonic The Hedgehog",
+                                                        "channelEligibility": "BOPIS",
+                                                        "productState": "available",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1723161600,
+                                                        "staticAvgUnitsSoldPast14Days": 110,
+                                                        "department": "TECH TREND",
+                                                        "class": "EARBUDS"
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9150600_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9150600_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9150600_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9150600_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9150600_05.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9150600_06.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9150600_07.jpg"
+                                                    ],
+                                                    "sku": "9150600",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "45b1fec5-6097-4296-bf4f-d4439f784061",
+                                                                    "value": 1000
+                                                                }
+                                                            ],
+                                                            "max": 1000,
+                                                            "min": 1000
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1"
+                                            ],
+                                            "objectID": "d5aa9d46-4bad-4ea1-889f-2d66635c6dd3"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "clear-wireless-phone-handset-9141971"
+                                            },
+                                            "name": {
+                                                "en-US": "Clear Wireless Phone Handset"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "brand": "Five Below",
+                                                        "releaseDateTime": "2024-08-04",
+                                                        "cleanBrandName": "Five Below",
+                                                        "channelEligibility": "BOPIS",
+                                                        "productState": "available",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1722729600,
+                                                        "staticAvgUnitsSoldPast14Days": 105,
+                                                        "department": "TECH TREND",
+                                                        "class": "NOVELTY ELECTRONICS"
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9141972_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9141972_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9141972_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9141972_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9141972_05.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9141972_06.jpg"
+                                                    ],
+                                                    "sku": "9141972",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "24f0ec26-22da-43e5-8355-f347e9bbfa1b",
+                                                                    "value": 1000
+                                                                }
+                                                            ],
+                                                            "max": 1000,
+                                                            "min": 1000
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1"
+                                            ],
+                                            "objectID": "5d471c51-e4ca-41a3-9d25-79c3172a6bb7"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "pixie-string-lights-8ft"
+                                            },
+                                            "name": {
+                                                "en-US": "Pixie String Lights 8ft"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "releaseDate": 1690502400,
+                                                        "orderLimitQuantity": 5,
+                                                        "department": "TECH TREND",
+                                                        "class": "TECH LIGHTING",
+                                                        "brand": "vibe\u2122",
+                                                        "cleanBrandName": "vibe",
+                                                        "colorFacet": "White",
+                                                        "releaseDateTime": "2023-07-28",
+                                                        "productState": "available",
+                                                        "staticAvgUnitsSoldPast14Days": 93,
+                                                        "channelEligibility": "BOPIS",
+                                                        "fmTheme": [
+                                                            "lighting"
+                                                        ]
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1888468/original/9082371-00_A.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1888469/original/9082371-00_B.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1888470/original/9082371-00_C.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1888471/original/9082371-00_D.jpg"
+                                                    ],
+                                                    "sku": "9082371",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "4fa68f05-8f67-455f-951b-befdb7cea311",
+                                                                    "value": 555
+                                                                }
+                                                            ],
+                                                            "max": 555,
+                                                            "min": 555
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1"
+                                            ],
+                                            "objectID": "305249b0-cc0b-4b4f-8d46-57b5af1c23b7"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "funko-pop-stitch-bluetooth-wireless-earbuds"
+                                            },
+                                            "name": {
+                                                "en-US": "Funko Pop! Stitch Bluetooth\u00ae Wireless Earbuds"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "brand": "Funko\u00ae",
+                                                        "releaseDateTime": "2023-11-24",
+                                                        "colorFacet": "Blue",
+                                                        "cleanBrandName": "Funko",
+                                                        "productState": "available",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1700784000,
+                                                        "department": "TECH TREND",
+                                                        "class": "EARBUDS",
+                                                        "staticAvgUnitsSoldPast14Days": 190,
+                                                        "channelEligibility": "BOPIS",
+                                                        "ctProductSlider": [
+                                                            "fanshop",
+                                                            "fanshop729"
+                                                        ],
+                                                        "fmBrand": [
+                                                            "Disney",
+                                                            "Funko",
+                                                            "Lilo & Stitch"
+                                                        ],
+                                                        "character": [
+                                                            "Stitch"
+                                                        ],
+                                                        "fmTheme": [
+                                                            "bluetooth earbuds"
+                                                        ]
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9110429_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9110429_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9110429_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9110429_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9110429_05.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9110429_06.jpg"
+                                                    ],
+                                                    "sku": "9110429",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "2ce5b059-a0ba-4679-b1fa-1801a173c49d",
+                                                                    "value": 1000
+                                                                }
+                                                            ],
+                                                            "max": 1000,
+                                                            "min": 1000
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1"
+                                            ],
+                                            "objectID": "c8237e57-72fb-46de-afd1-b6bd9ec035ed"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "disney-princess-kid-safe-bluetooth-wireless-headphones"
+                                            },
+                                            "name": {
+                                                "en-US": "Disney Princess Kid-Safe Bluetooth\u00ae Wireless Headphones"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "brand": "\u00a9 Disney",
+                                                        "releaseDateTime": "2024-02-19",
+                                                        "colorFacet": "Purple",
+                                                        "cleanBrandName": " Disney",
+                                                        "channelEligibility": "BOPIS",
+                                                        "productState": "available",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1708300800,
+                                                        "department": "TECH TREND",
+                                                        "class": "HEADPHONES",
+                                                        "staticAvgUnitsSoldPast14Days": 80,
+                                                        "fmBrand": [
+                                                            "Disney"
+                                                        ],
+                                                        "fmTheme": [
+                                                            "bluetooth headphones"
+                                                        ]
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9122243_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9122243_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9122243_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9122243_05.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9122243_04.jpg"
+                                                    ],
+                                                    "sku": "9122243",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "31d61e57-bdc4-4123-8479-fe999bd73e64",
+                                                                    "value": 700
+                                                                }
+                                                            ],
+                                                            "max": 700,
+                                                            "min": 700
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1"
+                                            ],
+                                            "objectID": "855f32b8-7fb6-48c1-aa6d-01d98711505f"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "wireless-motion-sensor-led-light-bar-battery-operated"
+                                            },
+                                            "name": {
+                                                "en-US": "Wireless Motion-Sensor LED Light Bar, Battery Operated"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "releaseDate": 1626393600,
+                                                        "orderLimitQuantity": 5,
+                                                        "department": "TECH TREND",
+                                                        "class": "TECH LIGHTING",
+                                                        "brand": "aconic\u2122",
+                                                        "cleanBrandName": "aconic",
+                                                        "channelEligibility": "BOPIS",
+                                                        "releaseDateTime": "2021-07-16",
+                                                        "productState": "available",
+                                                        "staticAvgUnitsSoldPast14Days": 78,
+                                                        "fmTheme": [
+                                                            "lighting"
+                                                        ]
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/3357977_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/3357977_02.jpg"
+                                                    ],
+                                                    "sku": "3357977",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "7dc6b021-8ed0-443c-90d8-2360289a8493",
+                                                                    "value": 555
+                                                                }
+                                                            ],
+                                                            "max": 555,
+                                                            "min": 555
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1"
+                                            ],
+                                            "objectID": "34425020-c1cf-40ad-9ae9-198acc2192eb"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "sonic-the-hedgehog-kid-safe-wired-headphones"
+                                            },
+                                            "name": {
+                                                "en-US": "Sonic The Hedgehog\u2122 Kid-Safe Wired Headphones"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "releaseDate": 1678924800,
+                                                        "orderLimitQuantity": 5,
+                                                        "department": "TECH TREND",
+                                                        "class": "HEADPHONES",
+                                                        "brand": "sonic the hedgehog\u2122",
+                                                        "cleanBrandName": "sonic the hedgehog",
+                                                        "channelEligibility": "BOPIS",
+                                                        "colorFacet": "Blue",
+                                                        "releaseDateTime": "2023-03-16",
+                                                        "productState": "available",
+                                                        "staticAvgUnitsSoldPast14Days": 78,
+                                                        "fmBrand": [
+                                                            "Sonic The Hedgehog"
+                                                        ],
+                                                        "fmTheme": [
+                                                            "wired headphones",
+                                                            "Sonic the Hedgehog"
+                                                        ]
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1869381/original/9076294-00_A.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1869382/original/9076294-00_B.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1869383/original/9076294-00_C.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1869384/original/9076294-00_D.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1869385/original/9076294-00_E.jpg"
+                                                    ],
+                                                    "sku": "9076294",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "24a8ecd0-e137-4e5e-be6d-1ca766a5313b",
+                                                                    "value": 500
+                                                                }
+                                                            ],
+                                                            "max": 500,
+                                                            "min": 500
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1"
+                                            ],
+                                            "objectID": "0e6011f6-5d14-4d34-b84b-6cf197368a1f"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "peanuts-snoopy-4-port-charging-hub-9158309"
+                                            },
+                                            "name": {
+                                                "en-US": "Peanuts\u2122 Snoopy 4-Port Charging Hub"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "fmBrand": [
+                                                            "Peanuts"
+                                                        ],
+                                                        "brand": "Peanuts\u2122",
+                                                        "releaseDateTime": "2024-10-16",
+                                                        "cleanBrandName": "Peanuts",
+                                                        "channelEligibility": "BOPIS",
+                                                        "productState": "available",
+                                                        "variantStyle": "Snoopy Sit",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1729036800,
+                                                        "staticAvgUnitsSoldPast14Days": 213,
+                                                        "department": "TECH CORE",
+                                                        "class": "OTHER CABLES"
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9158311_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9158311_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9158311_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9158311_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9158311_05.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9158311_06.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9158311_07.jpg"
+                                                    ],
+                                                    "sku": "9158311",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "35ba8903-2634-4563-8ca8-f7496b5914b3",
+                                                                    "value": 595
+                                                                }
+                                                            ],
+                                                            "max": 595,
+                                                            "min": 595
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                },
+                                                {
+                                                    "id": 2,
+                                                    "attributes": {
+                                                        "fmBrand": [
+                                                            "Peanuts"
+                                                        ],
+                                                        "brand": "Peanuts\u2122",
+                                                        "character": [
+                                                            "Snoopy"
+                                                        ],
+                                                        "releaseDateTime": "2024-11-11",
+                                                        "cleanBrandName": "Peanuts",
+                                                        "channelEligibility": "BOPIS",
+                                                        "productState": "available",
+                                                        "variantStyle": "Snoopy House",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1731283200,
+                                                        "staticAvgUnitsSoldPast14Days": 0,
+                                                        "department": "TECH CORE",
+                                                        "class": "OTHER CABLES"
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9158310_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9158310_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9158310_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9158310_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9158310_05.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9158310_06.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9158310_07.jpg"
+                                                    ],
+                                                    "sku": "9158310",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "5a5679b3-9fb3-4e15-b162-d181a0fe1ead",
+                                                                    "value": 595
+                                                                }
+                                                            ],
+                                                            "max": 595,
+                                                            "min": 595
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1",
+                                                "2"
+                                            ],
+                                            "objectID": "58420d64-f537-4580-92f9-e5e3793238ef"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "8ft-multicolor-led-light-strip-with-remote"
+                                            },
+                                            "name": {
+                                                "en-US": "8ft Multicolor LED Light Strip With Remote"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "brand": "Traxx",
+                                                        "releaseDateTime": "2023-10-13",
+                                                        "colorFacet": "Black",
+                                                        "cleanBrandName": "Traxx",
+                                                        "productState": "available",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1697155200,
+                                                        "department": "TECH TREND",
+                                                        "class": "TECH LIGHTING",
+                                                        "staticAvgUnitsSoldPast14Days": 369,
+                                                        "fmBrand": [
+                                                            "Traxx"
+                                                        ],
+                                                        "fmTheme": [
+                                                            "lighting"
+                                                        ],
+                                                        "channelEligibility": "BOPIS",
+                                                        "ctProductSlider": [
+                                                            "11-01-24holidayshopgiftslider"
+                                                        ]
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9099162_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1905267/original/9099162-00_B.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1905268/original/9099162-00_C.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1905269/original/9099162-00_D.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9099162_04.jpg"
+                                                    ],
+                                                    "sku": "9099162",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "fd2e872e-141e-4cd1-af86-0c156b05b17b",
+                                                                    "value": 555
+                                                                }
+                                                            ],
+                                                            "max": 555,
+                                                            "min": 555
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1"
+                                            ],
+                                            "objectID": "9125af18-5937-485b-aadd-77b827047790"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "glow-ball-led-color-change-orb-light-with-remote-6in"
+                                            },
+                                            "name": {
+                                                "en-US": "Glow Ball LED Color Change Orb Light With Remote 6in"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "releaseDate": 1631836800,
+                                                        "orderLimitQuantity": 5,
+                                                        "department": "TECH TREND",
+                                                        "class": "TECH LIGHTING",
+                                                        "brand": "bytech\u00ae",
+                                                        "cleanBrandName": "bytech",
+                                                        "channelEligibility": "BOPIS",
+                                                        "releaseDateTime": "2021-09-17",
+                                                        "productState": "available",
+                                                        "staticAvgUnitsSoldPast14Days": 267,
+                                                        "fmBrand": [
+                                                            "Bytech"
+                                                        ],
+                                                        "fmTheme": [
+                                                            "lighting"
+                                                        ]
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1780264/original/139175-00_A.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1780265/original/139175-00_B.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1780266/original/139175-00_C.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1780267/original/139175-00_D.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1780268/original/139175-00_E.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1780269/original/139175-00_F.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1780270/original/139175-00_G.jpg"
+                                                    ],
+                                                    "sku": "4440022",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "66f026e1-3db3-4180-88e8-4314a4222ba2",
+                                                                    "value": 555
+                                                                }
+                                                            ],
+                                                            "max": 555,
+                                                            "min": 555
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1"
+                                            ],
+                                            "objectID": "4b2e91db-def3-4081-a16e-e0265c21e6e9"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "disney-classics-stitch-plush-wired-headphones-9129376"
+                                            },
+                                            "name": {
+                                                "en-US": "Disney Classics Stitch Plush Wired Headphones"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "brand": "\u00a9 Disney",
+                                                        "releaseDateTime": "2024-05-15",
+                                                        "colorFacet": "Blue",
+                                                        "cleanBrandName": " Disney",
+                                                        "productState": "available",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1715731200,
+                                                        "staticAvgUnitsSoldPast14Days": 206,
+                                                        "department": "TECH TREND",
+                                                        "class": "HEADPHONES",
+                                                        "fmBrand": [
+                                                            "Disney",
+                                                            "Lilo & Stitch"
+                                                        ],
+                                                        "character": [
+                                                            "Stitch"
+                                                        ],
+                                                        "channelEligibility": "BOPIS",
+                                                        "ctProductSlider": [
+                                                            "10-15giftingearly"
+                                                        ],
+                                                        "productSticker": "Price Drop Was $5.55"
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9129377_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9129377_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9129377_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9129377_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9129377_05.jpg"
+                                                    ],
+                                                    "sku": "9129377",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "bfbaf2a8-4fb5-4739-878b-71268d40c9a1",
+                                                                    "value": 500
+                                                                }
+                                                            ],
+                                                            "max": 500,
+                                                            "min": 500
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1"
+                                            ],
+                                            "objectID": "c7b528c3-187c-4097-ad92-62179fe8504b"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "disney-plush-wired-headphones-9129372"
+                                            },
+                                            "name": {
+                                                "en-US": "Disney Plush Wired Headphones"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "fmBrand": [
+                                                            "Disney"
+                                                        ],
+                                                        "brand": "Disney",
+                                                        "releaseDateTime": "2024-08-28",
+                                                        "colorFacet": "Red",
+                                                        "cleanBrandName": "Disney",
+                                                        "productState": "available",
+                                                        "variantStyle": "Minnie",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1724803200,
+                                                        "staticAvgUnitsSoldPast14Days": 59,
+                                                        "department": "TECH TREND",
+                                                        "class": "HEADPHONES",
+                                                        "channelEligibility": "BOPIS",
+                                                        "explodeVariants": true,
+                                                        "ctProductSlider": [
+                                                            "10-15giftingearly"
+                                                        ],
+                                                        "productSticker": "Price Drop Was $5.55"
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9137833_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9137833_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9137833_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9137833_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9137833_05.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9137833_06.jpg"
+                                                    ],
+                                                    "sku": "9137833",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "7b157cff-7f54-4267-9931-584cfc69b0a1",
+                                                                    "value": 500
+                                                                }
+                                                            ],
+                                                            "max": 500,
+                                                            "min": 500
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 2,
+                                            "variantIDs": [
+                                                "2"
+                                            ],
+                                            "objectID": "60dc1522-a380-4958-99a7-5a61b36ca8f9_2"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "led-light-bar-with-remote-945in-x-163in"
+                                            },
+                                            "name": {
+                                                "en-US": "LED Light Bar With Remote 9.45in x 1.63in"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "department": "TECH TREND",
+                                                        "colorFacet": "Black",
+                                                        "class": "TECH LIGHTING",
+                                                        "channelEligibility": "BOPIS",
+                                                        "productState": "available",
+                                                        "orderLimitQuantity": 5,
+                                                        "brand": "Traxx",
+                                                        "releaseDateTime": "2023-11-15",
+                                                        "cleanBrandName": "Traxx",
+                                                        "releaseDate": 1700006400,
+                                                        "staticAvgUnitsSoldPast14Days": 77,
+                                                        "fmBrand": [
+                                                            "Traxx"
+                                                        ],
+                                                        "fmTheme": [
+                                                            "music",
+                                                            "vibe"
+                                                        ]
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9105750_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9105750_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9105750_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9105750_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9105750_05.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9105750_06.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9105750_07.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9105750_08.jpg"
+                                                    ],
+                                                    "sku": "9105750",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "06dd60cc-2e26-4a83-a723-65b1189afd6b",
+                                                                    "value": 555
+                                                                }
+                                                            ],
+                                                            "max": 555,
+                                                            "min": 555
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1"
+                                            ],
+                                            "objectID": "c80729cc-7a97-4475-8293-56021202a26e"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "hello-kitty-karaoke-microphone-wireless-speaker-9151519"
+                                            },
+                                            "name": {
+                                                "en-US": "Hello Kitty\u00ae Karaoke Microphone & Wireless Speaker"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "fmBrand": [
+                                                            "Hello Kitty",
+                                                            "Sanrio"
+                                                        ],
+                                                        "brand": "Hello Kitty\u00ae",
+                                                        "character": [
+                                                            "Hello Kitty"
+                                                        ],
+                                                        "releaseDateTime": "2024-09-18",
+                                                        "colorFacet": "Red",
+                                                        "cleanBrandName": "Hello Kitty",
+                                                        "channelEligibility": "BOPIS",
+                                                        "productState": "available",
+                                                        "variantStyle": "Red",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1726617600,
+                                                        "staticAvgUnitsSoldPast14Days": 162,
+                                                        "department": "TECH TREND",
+                                                        "class": "SPEAKERS"
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151521_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151521_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151521_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151521_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151521_05.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151521_06.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151521_07.jpg"
+                                                    ],
+                                                    "sku": "9151521",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "1b619361-54f2-4f3c-a92c-cdce8b8a7c86",
+                                                                    "value": 700
+                                                                }
+                                                            ],
+                                                            "max": 700,
+                                                            "min": 700
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                },
+                                                {
+                                                    "id": 2,
+                                                    "attributes": {
+                                                        "fmBrand": [
+                                                            "Hello Kitty",
+                                                            "Sanrio"
+                                                        ],
+                                                        "brand": "Hello Kitty\u00ae",
+                                                        "character": [
+                                                            "Hello Kitty"
+                                                        ],
+                                                        "releaseDateTime": "2024-09-18",
+                                                        "colorFacet": "Pink",
+                                                        "cleanBrandName": "Hello Kitty",
+                                                        "channelEligibility": "BOPIS",
+                                                        "productState": "available",
+                                                        "variantStyle": "Pink",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1726617600,
+                                                        "staticAvgUnitsSoldPast14Days": 162,
+                                                        "department": "TECH TREND",
+                                                        "class": "SPEAKERS"
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151520_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151520_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151520_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151520_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151520_05.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151520_06.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151520_07.jpg"
+                                                    ],
+                                                    "sku": "9151520",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "f78b3e49-a12a-4d02-a4fe-46f4e89df23b",
+                                                                    "value": 700
+                                                                }
+                                                            ],
+                                                            "max": 700,
+                                                            "min": 700
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1",
+                                                "2"
+                                            ],
+                                            "objectID": "99f201a0-2be2-42f6-9db4-05c90c3be61a"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "sealy-massage-pillow-with-heat-9151921"
+                                            },
+                                            "name": {
+                                                "en-US": "Sealy\u00ae Massage Pillow "
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "brand": "Sealy\u00ae",
+                                                        "releaseDateTime": "2024-08-28",
+                                                        "colorFacet": "Black",
+                                                        "cleanBrandName": "Sealy",
+                                                        "channelEligibility": "BOPIS",
+                                                        "productState": "available",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1724803200,
+                                                        "staticAvgUnitsSoldPast14Days": 147,
+                                                        "department": "TECH TREND",
+                                                        "class": "NOVELTY ELECTRONICS",
+                                                        "ctProductSlider": [
+                                                            "11-01-24holidayshopgiftslider"
+                                                        ]
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151922_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151922_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151922_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151922_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151922_05.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151922_06.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151922_07.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151922_08.jpg"
+                                                    ],
+                                                    "sku": "9151922",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "0aef1319-3276-4a3a-af9d-b8b93c02b79a",
+                                                                    "value": 1500
+                                                                }
+                                                            ],
+                                                            "max": 1500,
+                                                            "min": 1500
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1"
+                                            ],
+                                            "objectID": "65cc0e65-0f67-4f72-8f64-f3b9d210950e"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "sealy-portable-mini-massager-9151927"
+                                            },
+                                            "name": {
+                                                "en-US": "Sealy\u00ae Portable Mini Massager"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "brand": "Sealy\u00ae ",
+                                                        "releaseDateTime": "2024-10-04",
+                                                        "fmTheme": [
+                                                            "massage"
+                                                        ],
+                                                        "colorFacet": "Black",
+                                                        "cleanBrandName": "Sealy ",
+                                                        "channelEligibility": "BOPIS",
+                                                        "productState": "available",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1728000000,
+                                                        "staticAvgUnitsSoldPast14Days": 106,
+                                                        "department": "TECH TREND",
+                                                        "class": "NOVELTY ELECTRONICS"
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151928_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151928_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151928_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151928_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151928_05.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151928_06.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151928_07.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9151928_08.jpg"
+                                                    ],
+                                                    "sku": "9151928",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "1b7dcd4b-6370-4ed0-a458-b26c5fcd4ceb",
+                                                                    "value": 1500
+                                                                }
+                                                            ],
+                                                            "max": 1500,
+                                                            "min": 1500
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1"
+                                            ],
+                                            "objectID": "7569f645-5286-4247-b532-53244019642a"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "digital-photo-frame-717in-x-484in"
+                                            },
+                                            "name": {
+                                                "en-US": "Digital Photo Frame 7.17in X 4.84in"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "brand": "Five Below",
+                                                        "releaseDateTime": "2023-10-24",
+                                                        "colorFacet": "Black",
+                                                        "cleanBrandName": "Five Below",
+                                                        "productState": "available",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1698105600,
+                                                        "department": "TECH TREND",
+                                                        "class": "ESSENTIAL ELECTRONICS",
+                                                        "staticAvgUnitsSoldPast14Days": 87,
+                                                        "fmTheme": [
+                                                            "room decor",
+                                                            "tech accessories"
+                                                        ],
+                                                        "variantStyle": "Black",
+                                                        "channelEligibility": "BOPIS"
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1914215/original/9099607-00_A.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1914216/original/9099607-00_B.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1914217/original/9099607-00_C.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1914218/original/9099607-00_D.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1914219/original/9099607-00_E.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1914220/original/9099607-00_F.jpg"
+                                                    ],
+                                                    "sku": "9099607",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "6c0ad203-4a3c-4cc2-96bf-7eb2e1b99b75",
+                                                                    "value": 2000
+                                                                }
+                                                            ],
+                                                            "max": 2000,
+                                                            "min": 2000
+                                                        }
+                                                    },
+                                                    "displayOnPLP": false
+                                                },
+                                                {
+                                                    "id": 2,
+                                                    "attributes": {
+                                                        "releaseDateTime": "2024-10-16",
+                                                        "colorFacet": "Brown",
+                                                        "productState": "available",
+                                                        "variantStyle": "Brown",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1729036800,
+                                                        "staticAvgUnitsSoldPast14Days": 87,
+                                                        "department": "TECH TREND",
+                                                        "class": "ESSENTIAL ELECTRONICS",
+                                                        "channelEligibility": "BOPIS",
+                                                        "ctProductSlider": [
+                                                            "11-01-24holidayshopgiftslider"
+                                                        ]
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9153249_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9153249_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9153249_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9153249_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9153249_05.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9153249_06.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9153249_07.jpg"
+                                                    ],
+                                                    "sku": "9153249",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "28fbb868-3526-4721-ac72-5d6d9a508c85",
+                                                                    "value": 2000
+                                                                }
+                                                            ],
+                                                            "max": 2000,
+                                                            "min": 2000
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1",
+                                                "2"
+                                            ],
+                                            "objectID": "47fa4a26-23b4-41a9-a7d0-3a5335dc56c2"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "diner-chrome-jukebox-wireless-speaker-9152853"
+                                            },
+                                            "name": {
+                                                "en-US": "Diner Chrome Jukebox Wireless Speaker"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "releaseDateTime": "2024-10-11",
+                                                        "colorFacet": "Gray",
+                                                        "productState": "available",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1728604800,
+                                                        "staticAvgUnitsSoldPast14Days": 130,
+                                                        "department": "TECH TREND",
+                                                        "class": "SPEAKERS",
+                                                        "channelEligibility": "BOPIS",
+                                                        "ctProductSlider": [
+                                                            "11-01-24holidayshopgiftslider"
+                                                        ]
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9152860_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9152860_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9152860_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9152860_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9152860_05.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9152860_06.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9152860_07.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9152860_08.jpg"
+                                                    ],
+                                                    "sku": "9152860",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "e3575132-5b4d-4c86-bf9c-a7cb21ccc444",
+                                                                    "value": 2000
+                                                                }
+                                                            ],
+                                                            "max": 2000,
+                                                            "min": 2000
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1"
+                                            ],
+                                            "objectID": "b5f1cdc3-be12-43cf-bf9c-2ebf3073db3a"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "freevoice-clip-on-microphone-9139933"
+                                            },
+                                            "name": {
+                                                "en-US": "FreeVoice Clip-On Microphone"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "brand": "Up-Tech",
+                                                        "releaseDateTime": "2024-07-29",
+                                                        "colorFacet": "Black",
+                                                        "cleanBrandName": "Up-Tech",
+                                                        "channelEligibility": "BOPIS",
+                                                        "productState": "available",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1722211200,
+                                                        "staticAvgUnitsSoldPast14Days": 56,
+                                                        "department": "TECH TREND",
+                                                        "class": "SELFIE"
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 1
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9139934_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9139934_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9139934_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9139934_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9139934_05.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9139934_06.jpg"
+                                                    ],
+                                                    "sku": "9139934",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "e53ad10c-b7b5-41a7-9cc5-c24da4104d99",
+                                                                    "value": 555
+                                                                }
+                                                            ],
+                                                            "max": 555,
+                                                            "min": 555
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1"
+                                            ],
+                                            "objectID": "2dac4ed9-7453-47e7-b47d-25e9be7f4875"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "8-pin-earbuds-w-mic-for-iphone-and-ipad"
+                                            },
+                                            "name": {
+                                                "en-US": "8-Pin Earbuds w/ Mic For iPhone\u00ae & iPad\u00ae"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "releaseDate": 1695686400,
+                                                        "orderLimitQuantity": 5,
+                                                        "department": "TECH TREND",
+                                                        "class": "EARBUDS",
+                                                        "releaseDateTime": "2023-09-26",
+                                                        "productState": "available",
+                                                        "staticAvgUnitsSoldPast14Days": 76,
+                                                        "fmTheme": [
+                                                            "iphone",
+                                                            "wired earbuds"
+                                                        ],
+                                                        "channelEligibility": "BOPIS"
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1763195/original/125431-00_A.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1763196/original/125431-00_B.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/5bassets/prod-hts/spree/images/1763197/original/125431-00_C.jpg"
+                                                    ],
+                                                    "sku": "3071909",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "1f3babdf-0a47-43bf-a022-eb87fb3e3712",
+                                                                    "value": 595
+                                                                }
+                                                            ],
+                                                            "max": 595,
+                                                            "min": 595
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1"
+                                            ],
+                                            "objectID": "7ff2d757-c50e-423f-a2da-328ee38cf019"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "air-conduction-true-wireless-earcuffs-earbuds"
+                                            },
+                                            "name": {
+                                                "en-US": "Air Conduction True Wireless Earcuffs Earbuds"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "brand": "Bass Jaxx\u2122",
+                                                        "releaseDateTime": "2023-10-19",
+                                                        "colorFacet": "White",
+                                                        "cleanBrandName": "Bass Jaxx",
+                                                        "channelEligibility": "BOPIS",
+                                                        "productState": "available",
+                                                        "variantStyle": "White",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1697673600,
+                                                        "department": "TECH TREND",
+                                                        "class": "EARBUDS",
+                                                        "staticAvgUnitsSoldPast14Days": 64,
+                                                        "fmTheme": [
+                                                            "bluetooth earbuds"
+                                                        ]
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9099215_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9099215_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9099215_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9099215_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9099215_05.jpg"
+                                                    ],
+                                                    "sku": "9099215",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "3fdd8f3f-ed33-468a-8b4b-6e3e1a369807",
+                                                                    "value": 800
+                                                                }
+                                                            ],
+                                                            "max": 800,
+                                                            "min": 800
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                },
+                                                {
+                                                    "id": 2,
+                                                    "attributes": {
+                                                        "brand": "Bass Jaxx\u2122",
+                                                        "releaseDateTime": "2023-10-19",
+                                                        "parentAlias": [
+                                                            "9099214",
+                                                            "9099215"
+                                                        ],
+                                                        "colorFacet": "Black",
+                                                        "cleanBrandName": "Bass Jaxx",
+                                                        "channelEligibility": "BOPIS",
+                                                        "productState": "available",
+                                                        "variantStyle": "Black",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1697673600,
+                                                        "department": "TECH TREND",
+                                                        "class": "EARBUDS",
+                                                        "staticAvgUnitsSoldPast14Days": 64,
+                                                        "fmTheme": [
+                                                            "bluetooth earbuds"
+                                                        ],
+                                                        "ctProductSlider": [
+                                                            "11-01-24holidayshopgiftslider"
+                                                        ]
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9099214_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9099214_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9099214_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9099214_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9099214_05.jpg"
+                                                    ],
+                                                    "sku": "9099214",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "228c4c2e-7f90-4838-b2b8-c27da973249d",
+                                                                    "value": 800
+                                                                }
+                                                            ],
+                                                            "max": 800,
+                                                            "min": 800
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1",
+                                                "2"
+                                            ],
+                                            "objectID": "c19f0aa1-dcce-46a6-ad0e-8f675773d86a"
+                                        },
+                                        {
+                                            "slug": {
+                                                "en-US": "vertical-record-player-wireless-speaker-9160488"
+                                            },
+                                            "name": {
+                                                "en-US": "Bass Jaxx Bluetooth\u00ae Vertical Record Player"
+                                            },
+                                            "variants": [
+                                                {
+                                                    "id": 1,
+                                                    "attributes": {
+                                                        "fmBrand": [
+                                                            "Bass Jaxx"
+                                                        ],
+                                                        "brand": "Bass Jaxx\u2122",
+                                                        "releaseDateTime": "2024-11-01",
+                                                        "colorFacet": "Black",
+                                                        "cleanBrandName": "Bass Jaxx",
+                                                        "channelEligibility": "BOPIS",
+                                                        "productState": "available",
+                                                        "orderLimitQuantity": 5,
+                                                        "releaseDate": 1730419200,
+                                                        "staticAvgUnitsSoldPast14Days": 36,
+                                                        "department": "TECH TREND",
+                                                        "class": "SPEAKERS"
+                                                    },
+                                                    "inventory": {
+                                                        "2021": 2
+                                                    },
+                                                    "images": [
+                                                        "https://fbres.fivebelow.com/image/upload/product/9160489_01.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9160489_02.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9160489_03.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9160489_04.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9160489_05.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9160489_06.jpg",
+                                                        "https://fbres.fivebelow.com/image/upload/product/9160489_07.jpg"
+                                                    ],
+                                                    "sku": "9160489",
+                                                    "prices": {
+                                                        "USD": {
+                                                            "priceValues": [
+                                                                {
+                                                                    "id": "45db294e-e60a-42d2-9833-99310e36a6ca",
+                                                                    "value": 2500
+                                                                }
+                                                            ],
+                                                            "max": 2500,
+                                                            "min": 2500
+                                                        }
+                                                    },
+                                                    "displayOnPLP": true
+                                                }
+                                            ],
+                                            "masterVariantID": 1,
+                                            "variantIDs": [
+                                                "1"
+                                            ],
+                                            "objectID": "2968c617-4c21-41db-9176-21e2545bc12c"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
